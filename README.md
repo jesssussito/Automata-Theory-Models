@@ -5,7 +5,7 @@ This repository contains formal models and simulations of theoretical computing 
 
 ### 🧩 Models Implemented
 * **Finite Automata (DFA / NFA):** Design of deterministic and non-deterministic states for pattern recognition.
-* **Turing Machines:** Simulation of algorithmic logic and computability problems.
+* **Turing Machines:** Simulation of algorithmic logic and computability problems, ( We developed in pairs at the university ( in the pc of my teanmate ) so only appears his name.
 * **Context-Free Grammars:** Structures for formal language syntax analysis and parsing.
 
 ### 💻 Tools & Technologies
